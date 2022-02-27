@@ -36,7 +36,7 @@ const About = () => {
         <div className="head">
           <p>About Us hello</p>
           <text>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Lorem ipsum dolor sit amet,
             <br /> Voluptas officia eligendi dolorem molestias nesciunt <br />
             aliquam deserunt velit fuga quidem atque?
           </text>
