@@ -1,0 +1,34 @@
+.social-media-desktop li {
+  display: inline-block;
+  align-items: center;
+  justify-items: center;
+  /* padding: 20px 10px 20px 20px; */
+  margin: 20px;
+}
+.card1 {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+  background-color: #f1f1f1;
+  padding: 20px 0px 0px 0px;
+}
+.card1 h6 {
+  font-size: 20px;
+  padding-left: 10px;
+}
+.card1 p {
+  font-size: 10px;
+}
+.card1 .text {
+  font-size: 15px;
+  /* padding: 35px 170px 0px 20px; */
+}
+.abc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card1 .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 0px 15px 0px;
+}

@@ -1,0 +1,129 @@
+/* first */
+.home {
+  display: flex;
+  font-family: verdana;
+  align-items: center;
+  flex-direction: column;
+}
+.Home {
+  margin-top: 15%;
+  margin-left: 32%;
+  margin-bottom: 20%;
+  background: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  padding: 2rem 6rem;
+  /* background: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  left: 50%;
+  position: absolute !important;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  padding: 2rem 6rem; */
+}
+.home hr {
+  background: #5656f1;
+  height: 5px;
+  margin: 1.7rem auto;
+  width: 10rem;
+}
+.home p {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+}
+.home text {
+  font-size: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-bottom: 2rem;
+  justify-content: center;
+}
+.home .f1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.4rem 0.2rem;
+}
+.home .but3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 19px;
+  letter-spacing: 1pt;
+  width: 160px;
+  height: 45px;
+  background: #5656f1;
+  color: white;
+  border: #5656f1 2px solid;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.home .but3:hover {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: #5656f1 3px solid;
+}
+.bki {
+  background-image: url("home.jpeg");
+  background-size: cover;
+  height: 100vh;
+  width: 98.9vw;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/* second */
+.home1 {
+  background: #ebf5fb;
+  /* background-color: rgb(190, 190, 190); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.home1 a {
+  color: black;
+  font-size: 50px;
+  letter-spacing: 0.1ch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 5px 5px 5px;
+}
+.home1 hr {
+  background: #5656f1;
+  height: 5px;
+  margin: 0 auto;
+  width: 5rem;
+}
+.home1 .cardCont {
+  display: flex;
+  margin-top: 50px;
+  /* background-color: rgb(90, 90, 90); */
+}
+/* third */
+.home2 {
+  background-color: springgreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 2rem 0;
+}
+.home2 p {
+  /* font-size: 40px; */
+  font-size: 3em;
+  line-height: 1;
+  margin-bottom: 0.5em;
+}
+.home2 hr {
+  color: #5656f1;
+  background: #5656f1;
+  margin-bottom: 4rem;
+  height: 5px;
+  margin: 1.7rem auto;
+  width: 5rem;
+}

@@ -1,0 +1,39 @@
+.column {
+  padding: 0px 0px 20px 0px;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+.card {
+  box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  background-color: #f1f1f1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: verdana;
+  height: "50%";
+  width: "50%";
+}
+.card p {
+  font-size: 15px;
+  font-weight: 100;
+  letter-spacing: 0.2pt;
+}
+.card h6 {
+  font-size: 15px;
+  font-weight: 300;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  letter-spacing: 3px;
+}
+.card span {
+  transition: 1s linear;
+}
+.card span:hover {
+  transform: rotate(360deg);
+}

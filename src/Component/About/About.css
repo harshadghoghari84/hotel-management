@@ -1,0 +1,124 @@
+/* {first} */
+.about {
+  background-color: #f1f1f1;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.about p {
+  color: black;
+  font-size: 50px;
+  font-family: verdana;
+}
+.image {
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 38vw;
+}
+.about text {
+  font-family: verdana;
+  color: black;
+  font-size: 20px;
+}
+.about .but5 {
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 260px;
+  height: 60px;
+  background: white;
+  border: black 1px solid;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.about .but5:hover {
+  color: white;
+  background: #414d46;
+  border: #414d46 3px solid;
+}
+/* second */
+.about1 {
+  background-color: steelblue;
+}
+.about1 p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  font-weight: 500;
+}
+.about1 text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: verdana;
+}
+/* third */
+.column1 {
+  background: rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 6px 8px 5px rgba(0, 0, 0, 0.2);
+}
+.about2 p {
+  font-size: 40px;
+  font-weight: 500;
+}
+.says .image2 {
+  background-image: url("image2.jpeg");
+  background-repeat: no-repeat;
+  height: 43ch;
+  width: 40vw;
+  /* width: 53ch; */
+}
+.say1 {
+  background-color: yellowgreen;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.says {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.says p {
+  font-size: 15px;
+}
+.says h6 {
+  font-size: 20px;
+}
+/* forth */
+.about3 a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  font-size: 50px;
+  font-weight: 450;
+}
+.about3 .a1 .name {
+  font-size: 10px;
+  font-weight: 450;
+}
+.about3 .a1 .text {
+  font-size: 10px;
+  font-weight: 450;
+}
+.about3 .a1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
